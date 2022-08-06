@@ -9,7 +9,7 @@ I'm a Web Developer, and i'm studying web development at [Rocketseat](https://ro
 - 🎉 Frontend: `React.JS`, `HTML5`, `CSS3`, `JavaScript` 
 - 🎨 Layout Design: `Figma`
 - 🎉 Version Code Control: `Git & GitHub`
-- 🔨 Tools: `VSCode`
+- 🔨 Tools: `VSCode`, `Insomnia`, `Beekeeper Studio`
 - 🚀 I'm mostly active in `Rocketseat Community`
 
 #### Contacts
