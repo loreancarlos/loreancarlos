@@ -5,12 +5,12 @@ I'm a Web Developer, and i'm studying web development at [Rocketseat](https://ro
 
 #### Current Stacks
 - ⚡️ Main language: `JavaScript`
-- ⚙️ Backend: `Node.JS`
-- 🎉 Frontend: `React.JS`, `HTML5`, `CSS3`, `JavaScript` 
+- ⚙️ Backend: `Node.JS`, `Express`
+- 🎉 Frontend: `ReactJS`,`ViteJS` `HTML5`, `CSS3`, `JavaScript` 
 - 🎨 Layout Design: `Figma`
 - 🎉 Version Code Control: `Git & GitHub`
-- 🔨 Tools: `VSCode`, `Insomnia`, `Beekeeper Studio`
-- 🚀 I'm mostly active in `Rocketseat Community`
+- 🔨 Tools: `VSCode`, `CodePen`, `Insomnia`, `Beekeeper Studio`
+- 🚀 I'm mostly active in `Rocketseat Community` and `Linkedin`
 
 #### Contacts
 - 📧 Email: lorean.carlos@gmail.com
