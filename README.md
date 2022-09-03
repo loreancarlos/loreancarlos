@@ -6,7 +6,7 @@ I'm a Web Developer, and i'm studying web development at [Rocketseat](https://ro
 #### Current Stacks
 - ⚡️ Main language: `JavaScript`
 - ⚙️ Backend: `Node.JS`, `Express`
-- 🎉 Frontend: `ReactJS`,`ViteJS` `HTML5`, `CSS3`, `JavaScript` 
+- 🎉 Frontend: `ReactJS`,`ViteJS`, `HTML5`, `CSS3`, `JavaScript` 
 - 🎨 Layout Design: `Figma`
 - 🎉 Version Code Control: `Git & GitHub`
 - 🔨 Tools: `VSCode`, `CodePen`, `Insomnia`, `Beekeeper Studio`
