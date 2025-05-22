@@ -1,7 +1,7 @@
 ### Hello everyone, I'm Lorean Carlos 👋
 
 #### About
-I'm a Web Developer, and i'm studying web development at [Rocketseat](https://rocketseat.com.br/).
+Web Developer.
 
 #### Current Stacks
 - ⚡️ Main language: `JavaScript`
@@ -10,7 +10,7 @@ I'm a Web Developer, and i'm studying web development at [Rocketseat](https://ro
 - 🎨 Layout Design: `Figma`
 - 🎉 Version Code Control: `Git & GitHub`
 - 🔨 Tools: `VSCode`, `CodePen`, `Insomnia`, `Beekeeper Studio`
-- 🚀 I'm mostly active in `Rocketseat Community` and `Linkedin`
+- 🚀 I'm mostly active in `Linkedin`
 
 #### Contacts
 - 📧 Email: lorean.carlos@gmail.com
